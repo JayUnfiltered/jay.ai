@@ -1,1 +1,2 @@
 # jay-ai Goal: Personal, persona-first chatbot fine-tuned on Jay's voice. Phases: - setup - run a base model - fine-tune with LoRA - add memory + tools - safety checks - dockerize & deploy Quick start: 1. Install Python 3.11+, Git. 2. pip install -r requirements.txt 3. export HF_TOKEN="your_hf_token" 4. python chat_demo.py --model <base-model>
+

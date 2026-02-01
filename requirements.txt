@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+datasets
+peft
+langchain
+fastapi
+uvicorn
+python-dotenv
+huggingface-hub
